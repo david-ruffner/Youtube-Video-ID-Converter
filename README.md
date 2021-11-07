@@ -6,12 +6,12 @@
 ### Setup
 - You will first need Python installed on your computer (https://www.python.org/)
 - Next you will need to install pip via python (https://www.makeuseof.com/tag/install-pip-for-python/)
-- You will need to run the following commands in a terminal
-&nbsp;&nbsp;&nbsp;&nbsp;- pip install pandas
-&nbsp;&nbsp;&nbsp;&nbsp;- pip install openpyxl
-&nbsp;&nbsp;&nbsp;&nbsp;- pip install xlwt
-&nbsp;&nbsp;&nbsp;&nbsp;- pip install requests
-&nbsp;&nbsp;&nbsp;&nbsp;- pip install beautifulsoup4
+- You will need to run the following commands in a terminal  
+&nbsp;&nbsp;&nbsp;&nbsp;pip install pandas  
+&nbsp;&nbsp;&nbsp;&nbsp;pip install openpyxl  
+&nbsp;&nbsp;&nbsp;&nbsp;pip install xlwt  
+&nbsp;&nbsp;&nbsp;&nbsp;pip install requests  
+&nbsp;&nbsp;&nbsp;&nbsp;pip install beautifulsoup4  
 
 ### Google API Setup
 - You will first need a Google API key. These are free and can be created in the google cloud dashboard with a free Google account (https://console.cloud.google.com/apis/dashboard, https://cloud.google.com/docs/authentication/api-keys).
